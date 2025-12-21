@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1091938548,
+    "title": "Government Complaints System",
+    "description": "A complaint submission and tracking system with a clear workflow and structured management for handling requests efficiently.",
+    "techStack": ["Flutter", "Dart"],
+    "githubLink": "https://github.com/YaserHonini/Government-complaints-system",
+    "liveDemoLink": "",
+    "screenshot": "/projects/gov.png"
+  },
+  {
+    "id": 860009794,
+    "title": "File Manager App",
+    "description": "A mobile file manager to browse folders, search files, and manage local storage with a clean user experience.",
+    "techStack": ["Flutter", "Dart"],
+    "githubLink": "https://github.com/YaserHonini/File-manger-app",
+    "liveDemoLink": "",
+    "screenshot": "/projects/files.png"
+  },
+  {
+    "id": 913808949,
+    "title": "Event Management",
+    "description": "An event management app to create events, manage attendees, and organize schedules in a simple, user-friendly flow.",
+    "techStack": ["Flutter", "Dart"],
+    "githubLink": "https://github.com/YaserHonini/Event--management",
+    "liveDemoLink": "",
+    "screenshot": "/projects/event.png"
+  },
+  {
+    "id": 849207381,
+    "title": "Weather App",
+    "description": "A weather application that displays current conditions and basic forecasts with a clean UI.",
+    "techStack": ["Flutter", "Dart", "API"],
+    "githubLink": "https://github.com/YaserHonini/weather",
+    "liveDemoLink": "",
+    "screenshot": "/projects/weather.png"
+  },
+  {
+    "id": 949582412,
+    "title": "User Dashboard (Angular)",
+    "description": "A simple user dashboard layout built with Angular, focusing on UI structure and component-based organization.",
+    "techStack": ["Angular", "HTML", "CSS"],
+    "githubLink": "https://github.com/YaserHonini/User-Dashboard",
+    "liveDemoLink": "",
+    "screenshot": "/projects/dashboard.png"
+  }
+]
