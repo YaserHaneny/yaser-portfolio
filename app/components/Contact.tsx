@@ -54,7 +54,7 @@ export default function Contact() {
     },
     {
       name: "Email",
-      url: "mailto:your.email@example.com",
+      url: "mailto:honin44@gmail.com",
       icon: (
         <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
@@ -110,7 +110,7 @@ export default function Contact() {
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                     </svg>
                   </div>
-                  <span className="text-gray-300">your.email@example.com</span>
+                  <span className="text-gray-300">honin44@gmail.com</span>
                 </div>
               </div>
 
@@ -163,7 +163,7 @@ export default function Contact() {
                     onChange={handleChange}
                     required
                     className="w-full px-4 py-3 bg-gray-800 border border-gray-700 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent text-white placeholder-gray-500 transition-all"
-                    placeholder="your.email@example.com"
+                    placeholder="honin44@gmail.com"
                   />
                 </div>
                 <div>
