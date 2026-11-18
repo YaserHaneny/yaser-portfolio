@@ -3,8 +3,11 @@
     "id": 1091938548,
     "title": "Government Complaints System",
     "description": "A complaint submission and tracking system with a clear workflow and structured management for handling requests efficiently.",
-    "techStack": ["Flutter", "Dart"],
-    "githubLink": "https://github.com/YaserHonini/Government-complaints-system",
+    "techStack": [
+      "Flutter",
+      "Dart"
+    ],
+    "githubLink": "https://github.com/YaserHaneny/Government-complaints-system",
     "liveDemoLink": "",
     "screenshot": "/projects/gov.png"
   },
@@ -12,8 +15,11 @@
     "id": 860009794,
     "title": "File Manager App",
     "description": "A mobile file manager to browse folders, search files, and manage local storage with a clean user experience.",
-    "techStack": ["Flutter", "Dart"],
-    "githubLink": "https://github.com/YaserHonini/File-manger-app",
+    "techStack": [
+      "Flutter",
+      "Dart"
+    ],
+    "githubLink": "https://github.com/YaserHaneny/File-manger-app",
     "liveDemoLink": "",
     "screenshot": "/projects/files.png"
   },
@@ -21,8 +27,11 @@
     "id": 913808949,
     "title": "Event Management",
     "description": "An event management app to create events, manage attendees, and organize schedules in a simple, user-friendly flow.",
-    "techStack": ["Flutter", "Dart"],
-    "githubLink": "https://github.com/YaserHonini/Event--management",
+    "techStack": [
+      "Flutter",
+      "Dart"
+    ],
+    "githubLink": "https://github.com/YaserHaneny/Event--management",
     "liveDemoLink": "",
     "screenshot": "/projects/event.png"
   },
@@ -30,8 +39,12 @@
     "id": 849207381,
     "title": "Weather App",
     "description": "A weather application that displays current conditions and basic forecasts with a clean UI.",
-    "techStack": ["Flutter", "Dart", "API"],
-    "githubLink": "https://github.com/YaserHonini/weather",
+    "techStack": [
+      "Flutter",
+      "Dart",
+      "API"
+    ],
+    "githubLink": "https://github.com/YaserHaneny/weather",
     "liveDemoLink": "",
     "screenshot": "/projects/weather.png"
   },
@@ -39,9 +52,43 @@
     "id": 949582412,
     "title": "User Dashboard (Angular)",
     "description": "A simple user dashboard layout built with Angular, focusing on UI structure and component-based organization.",
-    "techStack": ["Angular", "HTML", "CSS"],
-    "githubLink": "https://github.com/YaserHonini/User-Dashboard",
+    "techStack": [
+      "Angular",
+      "HTML",
+      "CSS"
+    ],
+    "githubLink": "https://github.com/YaserHaneny/User-Dashboard",
     "liveDemoLink": "",
     "screenshot": "/projects/dashboard.png"
+  },
+  {
+    "id": 1006450804,
+    "title": "Dashboard Animals",
+    "description": "Source code for the Dashboard Animals project.",
+    "techStack": [],
+    "githubLink": "https://github.com/YaserHaneny/Dashboard-animals-",
+    "liveDemoLink": ""
+  },
+  {
+    "id": 1273735159,
+    "title": "Algorithms",
+    "description": "Algorithm exercises and implementations in PHP.",
+    "techStack": [
+      "PHP"
+    ],
+    "githubLink": "https://github.com/YaserHaneny/task-Algorithms",
+    "liveDemoLink": ""
+  },
+  {
+    "id": 1120711371,
+    "title": "Personal Portfolio",
+    "description": "My personal portfolio, built with Next.js and TypeScript to showcase web and mobile projects.",
+    "techStack": [
+      "Next.js",
+      "TypeScript",
+      "CSS"
+    ],
+    "githubLink": "https://github.com/YaserHaneny/yaser-portfolio",
+    "liveDemoLink": "https://yaser-portfolio-two.vercel.app/"
   }
 ]

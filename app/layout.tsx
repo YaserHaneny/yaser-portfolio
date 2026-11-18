@@ -1,34 +1,14 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
-
 export const metadata: Metadata = {
-  title: "Yaser - Full Stack Developer Portfolio",
-  description: "Portfolio website showcasing my projects, skills, and experience as a full stack developer.",
+  metadataBase: new URL("https://yaser-portfolio-two.vercel.app"),
+  title: "Yaser Honini — Full Stack & Mobile Developer",
+  description: "Thoughtful web and mobile experiences by Yaser Honini. Explore Flutter applications, modern interfaces, and full stack development projects.",
+  alternates: { canonical: "/" },
+  openGraph: { title: "Yaser Honini — Your next big idea. Built right.", description: "Explore my selected web and mobile development projects.", type: "website", locale: "en_US" },
+  twitter: { card: "summary", title: "Yaser Honini — Full Stack & Mobile Developer", description: "Thoughtful web and mobile experiences." },
 };
-
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
-  return (
-    <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
-        {children}
-      </body>
-    </html>
-  );
+export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
+  return <html lang="en"><body>{children}</body></html>;
 }
